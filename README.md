@@ -1,3 +1,30 @@
+# Student Persona - A React Website for Binus University Students
+
+## Overview
+Student Persona is a website developed as part of the AOL project for Human-Computer Interaction (HCI) course. This React-based web application aims to provides Binus University students with a comprehensive platform to manage and compare their academic performance, attendance, and extracurricular activities.
+
+![Untitled](https://github.com/jalviss/studentpersona/assets/113904459/3eac6a2d-42b1-430d-9f87-762751dd7b47)
+
+## Key Features
+### GPA Comparison
+Students can view their GPA and compare their GPA with the average GPA from their friends in the same class or their cohort, both per course and cumulatively.
+![Untitled](https://github.com/jalviss/studentpersona/assets/113904459/b5a5d0d6-e02c-4d0d-b3bc-9d24acc2a894)
+![Untitled](https://github.com/jalviss/studentpersona/assets/113904459/986e5f71-9b6e-4f44-b0a3-445daeab52b1)
+![Untitled-1](https://github.com/jalviss/studentpersona/assets/113904459/04f906ed-9a75-4aa8-8cf5-b87196ab57b6)
+
+### Academic Performance Tracking
+Students can check their accumulated SAT points and community service hours. Additionally, they can also view their attendance records to ensure they meet the eligibility criteria for exams.
+![Untitled](https://github.com/jalviss/studentpersona/assets/113904459/3baa72fb-01bd-4c64-b088-bb4d0b6d057a)
+![Untitled](https://github.com/jalviss/studentpersona/assets/113904459/f6ef2e47-7b20-4d34-b2e8-7540f4f3063e)
+![Untitled-1](https://github.com/jalviss/studentpersona/assets/113904459/c211c5fe-9acf-4943-b3be-23203aa770d5)
+
+
+### Academic Calendar
+The website provides an academic calendar that redirects to the main Binus University website for detailed schedules and the classes they need to attend, ensuring they stay organized and up-to-date.
+![Untitled-1](https://github.com/jalviss/studentpersona/assets/113904459/04233afb-7d5a-42e4-9115-1a15f177de0f)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

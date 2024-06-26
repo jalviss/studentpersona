@@ -1,4 +1,4 @@
-# Student Persona - A React Website for Binus University Students
+# Student Persona
 
 ## Overview
 Student Persona is a website developed as part of the AOL project for Human-Computer Interaction (HCI) course. This React-based web application aims to provides Binus University students with a comprehensive platform to manage and compare their academic performance, attendance, and extracurricular activities.
